@@ -69,18 +69,13 @@ permalink: /Members/
                   <td> </td>
                 </tr>
                 <tr>
-                  <td>Youjin Shin</td>
-                  <td>Computer Science Engineering</td>
-                  <td> </td>
-                </tr>
-                <tr>
                   <td>Bang, YoungOh</td>
                   <td>AI</td>
                   <td> </td>
                 </tr>
                 <tr>
                   <td>Junyaup Kim</td>
-                  <td>CSE</td>
+                  <td>Computer Science Engineering</td>
                   <td> </td>       
                 </tr>
                 <tr>
@@ -165,7 +160,6 @@ permalink: /Members/
                   <td>SUNYK, 2019</td>
                   <td>Stony Brook Univ, NY, USA</td>
                 </tr>
-                </tr> 
               </tbody>
             </table>
           </div>
