@@ -1,7 +1,8 @@
 title: DASH LAB
 author: Simon Woo
 email: swoo@g.skku.edu
-description: > # this means to ignore newlines until "baseurl:"
+baseurl: https://s00ne.github.io/
+description:  # this means to ignore newlines until "baseurl:"
   Data-driven + AI + Security + HCI Lab
 
 twitter_username: none
