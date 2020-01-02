@@ -2,4 +2,5 @@
 layout: home
 ---
 
-A Site Starter Materialize Templates for Jekyll.
+Welcome to DASH Lab!
+Data-driven + AI + Security + HCI Lab
