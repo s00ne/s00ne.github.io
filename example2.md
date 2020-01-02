@@ -17,7 +17,7 @@ permalink: /Publications/
     <h5>2019</h5>
     <div class="row">
 Jelena Mirkovic and Simon S. Woo, "Designing for fallible humans," 2019 IEEE Humans and Cyber Security (HACS) workshop in conjunction with IEEE CogMI (Cognitive Machine Intelligence), IEEE CIC (Collaboration and Internet Computing) and IEEE TPS (Trust, Privacy and Security of Intelligence Systems, and Applications) Los Angeles, California, USA, December 14, 2019. (Invited Paper) <br>
-        
+
 Junyaup Kim, Siho Han, and Simon S. Woo*, "Poster: Classifying Genuine Face images from Disguised Face Images," 2019 IEEE International conference on Big Data (IEEE BigData 2019), Los Angeles, CA, USA <br>
 
 Joon Kuy Han, Hyoungshick Kim and Simon S. Woo*, "Poster: Nickel to Lego: Using Foolgle to Create Adversarial Examples to fool Google Cloud Speech-to-Text API," The 26th ACM Conference on Computer and Communications Security, London, UK, 2019 <br>
