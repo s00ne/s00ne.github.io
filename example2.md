@@ -16,11 +16,11 @@ permalink: /Publications/
 <div class="section">
     <h5>2019</h5>
     <div class="row">
-Jelena Mirkovic and Simon S. Woo, "Designing for fallible humans," 2019 IEEE Humans and Cyber Security (HACS) workshop in conjunction with IEEE CogMI (Cognitive Machine Intelligence), IEEE CIC (Collaboration and Internet Computing) and IEEE TPS (Trust, Privacy and Security of Intelligence Systems, and Applications) Los Angeles, California, USA, December 14, 2019. (Invited Paper) <br>
+Jelena Mirkovic and Simon S. Woo, "Designing for fallible humans," 2019 IEEE Humans and Cyber Security (HACS) workshop in conjunction with IEEE CogMI (Cognitive Machine Intelligence), IEEE CIC (Collaboration and Internet Computing) and IEEE TPS (Trust, Privacy and Security of Intelligence Systems, and Applications) Los Angeles, California, USA, December 14, 2019. (Invited Paper) 
 
-Junyaup Kim, Siho Han, and Simon S. Woo*, "Poster: Classifying Genuine Face images from Disguised Face Images," 2019 IEEE International conference on Big Data (IEEE BigData 2019), Los Angeles, CA, USA <br>
+Junyaup Kim, Siho Han, and Simon S. Woo*, "Poster: Classifying Genuine Face images from Disguised Face Images," 2019 IEEE International conference on Big Data (IEEE BigData 2019), Los Angeles, CA, USA
 
-Joon Kuy Han, Hyoungshick Kim and Simon S. Woo*, "Poster: Nickel to Lego: Using Foolgle to Create Adversarial Examples to fool Google Cloud Speech-to-Text API," The 26th ACM Conference on Computer and Communications Security, London, UK, 2019 <br>
+Joon Kuy Han, Hyoungshick Kim and Simon S. Woo*, "Poster: Nickel to Lego: Using Foolgle to Create Adversarial Examples to fool Google Cloud Speech-to-Text API," The 26th ACM Conference on Computer and Communications Security, London, UK, 2019
         
 Keeyoun Kim, Byeongrak Seo, Sang-Hoon Rhee, Seungmoon Lee, and Simon S. Woo*, "Deep Learning for Blast Furnaces: Skip-Dense Layers Deep Learning Model to Predict the Remaining Time to Close Tap-holes for Blast Furnaces", CIKM'19, Beijing, China, Nov, 2019. (Acceptance rate=21%, BK Computer Science IF=3) <br>
         
