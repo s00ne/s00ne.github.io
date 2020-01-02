@@ -42,7 +42,6 @@ Simon S. Woo*, Le Xiao, Ron Artstein, Elsi Kaiser, and Jelena Mrikovic “Using 
  
 Shahroz Tariq, Sangyup Lee, Youjin Shin, Ho Young Kim, and Simon S. Woo*, "GAN is a Friend or Foe? A Framework to Detect Various Fake Face Images," ACM SAC Cyprus April 2019, (Acceptance Rate 25%, BK Computer Science 우수학회 IF=1) 
        
-    </div>
 </div>
 <div class="divider"></div>
 <div class="section">
