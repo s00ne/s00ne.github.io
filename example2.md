@@ -4,7 +4,7 @@ title: Publications
 permalink: /Publications/
 ---
 
-<h1 class="page-title">Researches</h1>
+<h1 class="page-title">Publications</h1>
 
 <div class="section">
     <h5>2020</h5>
