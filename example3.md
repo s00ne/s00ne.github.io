@@ -21,7 +21,7 @@ permalink: /Members/
               <tbody>
                 <tr>
                   <td>Keeyoung Kim</td>
-                  <td>CSE</td>
+                  <td>Computer Science Engineering</td>
                   <td> </td>
                 </tr>
                 <tr>
@@ -31,18 +31,18 @@ permalink: /Members/
                 </tr>
                 <tr>
                   <td>Sangyup Lee</td>
-                  <td>Lollipop</td>
-                  <td>$7.00</td>
+                  <td>Computer Science Engineering</td>
+                  <td> </td>
                 </tr>
                 <tr>
                   <td>Shahroz Tariq</td>
-                  <td>KitKat</td>
-                  <td>$9.99</td>
+                  <td>Computer Science Engineering</td>
+                  <td> </td>
                 </tr>
                 <tr>
                   <td>Khalid Hassam</td>
-                  <td>KitKat</td>
-                  <td>$9.99</td>       
+                  <td>Computer Science Engineering</td>
+                  <td> </td>       
                 </tr>
               </tbody>
             </table>
@@ -110,6 +110,7 @@ permalink: /Members/
                     <th>Name</th>
                     <th>Major</th>
                     <th>Current Employment</th>
+                    <th>Topic</th>
                 </tr>
               </thead>
               <tbody>
@@ -117,18 +118,14 @@ permalink: /Members/
                   <td>Seunghwa Song</td>
                   <td>Applied Data Science</td>
                   <td>Citi Bank</td>
-                </tr>
-                <tr>
-                    <td>Topic : Optimizing NBA Basketball Point-Spread Betting Using Machine Learning Techniques</td>
+                  <td>Topic : Optimizing NBA Basketball Point-Spread Betting Using Machine Learning Techniques</td>
                 </tr>
                 <tr>
                   <td>SoonYoung Kwon</td>
                   <td>Applied Data Science</td>
                   <td>Tiger Team</td>
-                </tr>
-                <tr>
                   <td>Topic : Deep Learning based Phishing Website Detection using Source Code</td>
-                </tr>  
+                </tr>
               </tbody>
             </table>
           </div>
