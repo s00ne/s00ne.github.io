@@ -1,200 +1,174 @@
 ---
 layout: page
-title: Table
-permalink: /table/
+title: Members
+permalink: /Members/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
 <div class="section">
-    <h5>Borderless Table</h5> 
+    <h5>Ph.D.</h5> 
     <div class="row">
           <div class="col s12">
             <table>
               <thead>
                 <tr>
                     <th>Name</th>
-                    <th>Item Name</th>
-                    <th>Item Price</th>
+                    <th>Major</th>
+                    <th>Research Interests</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>Alvin</td>
-                  <td>Eclair</td>
-                  <td>$0.87</td>
+                  <td>Keeyoung Kim</td>
+                  <td>CSE</td>
+                  <td> </td>
                 </tr>
                 <tr>
-                  <td>Alan</td>
-                  <td>Jellybean</td>
-                  <td>$3.76</td>
+                  <td>Youjin Shin</td>
+                  <td>Computer Science Engineering</td>
+                  <td> </td>
                 </tr>
                 <tr>
-                  <td>Jonathan</td>
+                  <td>Sangyup Lee</td>
                   <td>Lollipop</td>
                   <td>$7.00</td>
                 </tr>
                 <tr>
-                  <td>Shannon</td>
+                  <td>Shahroz Tariq</td>
                   <td>KitKat</td>
                   <td>$9.99</td>
+                </tr>
+                <tr>
+                  <td>Khalid Hassam</td>
+                  <td>KitKat</td>
+                  <td>$9.99</td>       
                 </tr>
               </tbody>
             </table>
           </div>
     </div>
 </div>
-<div class="divider"></div>
+
 <div class="section">
-    <h5>Bordered Table</h5> 
+    <h5>Masters</h5> 
     <div class="row">
           <div class="col s12">
-            <table class="bordered">
+            <table>
               <thead>
                 <tr>
                     <th>Name</th>
-                    <th>Item Name</th>
-                    <th>Item Price</th>
+                    <th>Major</th>
+                    <th>Research Interests</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>Alvin</td>
-                  <td>Eclair</td>
-                  <td>$0.87</td>
+                  <td>Jeon, HyunSung</td>
+                  <td>AI</td>
+                  <td> </td>
                 </tr>
                 <tr>
-                  <td>Alan</td>
-                  <td>Jellybean</td>
-                  <td>$3.76</td>
+                  <td>Youjin Shin</td>
+                  <td>Computer Science Engineering</td>
+                  <td> </td>
                 </tr>
                 <tr>
-                  <td>Jonathan</td>
-                  <td>Lollipop</td>
-                  <td>$7.00</td>
+                  <td>Bang, YoungOh</td>
+                  <td>AI</td>
+                  <td> </td>
                 </tr>
                 <tr>
-                  <td>Shannon</td>
-                  <td>KitKat</td>
-                  <td>$9.99</td>
+                  <td>Junyaup Kim</td>
+                  <td>CSE</td>
+                  <td> </td>       
                 </tr>
+                <tr>
+                  <td>Siho Han</td>
+                  <td>Applied Data Science</td>
+                  <td> </td>       
+                </tr>
+                <tr>
+                  <td>Sang Won Lee</td>
+                  <td>Applied Data Science</td>
+                  <td> </td>       
+                </tr> 
               </tbody>
             </table>
           </div>
     </div>
 </div>
-<div class="divider"></div>
+
+
 <div class="section">
-    <h5>Striped Table</h5> 
+    <h5>Master Thesis Supervision</h5> 
     <div class="row">
           <div class="col s12">
-            <table class="striped">
+            <table>
               <thead>
                 <tr>
                     <th>Name</th>
-                    <th>Item Name</th>
-                    <th>Item Price</th>
+                    <th>Major</th>
+                    <th>Current Employment</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>Alvin</td>
-                  <td>Eclair</td>
-                  <td>$0.87</td>
+                  <td>Seunghwa Song</td>
+                  <td>Applied Data Science</td>
+                  <td>Citi Bank</td>
                 </tr>
                 <tr>
-                  <td>Alan</td>
-                  <td>Jellybean</td>
-                  <td>$3.76</td>
+                    <td>Topic : Optimizing NBA Basketball Point-Spread Betting Using Machine Learning Techniques</td>
                 </tr>
                 <tr>
-                  <td>Jonathan</td>
-                  <td>Lollipop</td>
-                  <td>$7.00</td>
+                  <td>SoonYoung Kwon</td>
+                  <td>Applied Data Science</td>
+                  <td>Tiger Team</td>
                 </tr>
                 <tr>
-                  <td>Shannon</td>
-                  <td>KitKat</td>
-                  <td>$9.99</td>
-                </tr>
+                  <td>Topic : Deep Learning based Phishing Website Detection using Source Code</td>
+                </tr>  
               </tbody>
             </table>
           </div>
     </div>
 </div>
-<div class="divider"></div>
+
 <div class="section">
-    <h5>Highlight Table</h5> 
+    <h5>Alumni</h5> 
     <div class="row">
           <div class="col s12">
-            <table class="highlight">
+            <table>
               <thead>
                 <tr>
                     <th>Name</th>
-                    <th>Item Name</th>
-                    <th>Item Price</th>
+                    <th>Major</th>
+                    <th>Current employment</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>Alvin</td>
-                  <td>Eclair</td>
-                  <td>$0.87</td>
+                  <td>Young Rok Choi </td>
+                  <td>Applied Data Science</td>
+                  <td>Kakao</td>
                 </tr>
                 <tr>
-                  <td>Alan</td>
-                  <td>Jellybean</td>
-                  <td>$3.76</td>
+                  <td>Jiwon Choi</td>
+                  <td>SUNYK, 2019</td>
+                  <td>Stony Brook Univ, NY, USA</td>
                 </tr>
                 <tr>
-                  <td>Jonathan</td>
-                  <td>Lollipop</td>
-                  <td>$7.00</td>
+                  <td>Jihye Woo</td>
+                  <td>SUNYK, 2019</td>
+                  <td>Stony Brook Univ, NY, USA</td>
                 </tr>
                 <tr>
-                  <td>Shannon</td>
-                  <td>KitKat</td>
-                  <td>$9.99</td>
+                  <td>Soyoon Jeon</td>
+                  <td>SUNYK, 2019</td>
+                  <td>Stony Brook Univ, NY, USA</td>
                 </tr>
-              </tbody>
-            </table>
-          </div>
-    </div>
-</div>
-<div class="divider"></div>
-<div class="section">
-    <h5>Responsive Table</h5> 
-    <div class="row">
-          <div class="col s12">
-            <table class="responsive-table">
-              <thead>
-                <tr>
-                    <th>Name</th>
-                    <th>Item Name</th>
-                    <th>Item Price</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Alvin</td>
-                  <td>Eclair</td>
-                  <td>$0.87</td>
-                </tr>
-                <tr>
-                  <td>Alan</td>
-                  <td>Jellybean</td>
-                  <td>$3.76</td>
-                </tr>
-                <tr>
-                  <td>Jonathan</td>
-                  <td>Lollipop</td>
-                  <td>$7.00</td>
-                </tr>
-                <tr>
-                  <td>Shannon</td>
-                  <td>KitKat</td>
-                  <td>$9.99</td>
-                </tr>
+                </tr> 
               </tbody>
             </table>
           </div>
