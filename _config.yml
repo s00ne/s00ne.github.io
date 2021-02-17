@@ -11,3 +11,5 @@ github_username:  DASH-lab
 
 sass:
     style: compressed
+
+theme: jekyll-theme-cayman
